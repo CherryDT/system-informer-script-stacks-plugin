@@ -1,0 +1,9 @@
+/.deps/
+/build/
+/dist/
+/helper/bin/
+/helper/obj/
+*.user
+*.pdb
+*.obj
+.vs/

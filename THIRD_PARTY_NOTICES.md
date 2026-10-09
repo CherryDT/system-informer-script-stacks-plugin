@@ -18,7 +18,7 @@ Installer and settings-file handling are adapted from WSL Tools. Copyright (c) 2
 
 https://github.com/dotnet/runtime
 
-The capture helper includes Microsoft's self-contained .NET runtime. Its license and third-party notices are included with the helper payload. This runtime is used by the helper itself; it does not add .NET stack inspection.
+The capture helper includes Microsoft's self-contained .NET runtime. Its license and third-party notices are included with the helper payload.
 
 ## Optional downloaded tools
 
